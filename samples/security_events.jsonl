@@ -1,0 +1,22 @@
+{"timestamp": "2026-11-03T09:00:00Z", "event_id": 4624, "host": "WS-014", "user": "r.sharma", "src_ip": "10.0.4.21", "logon_type": 2}
+{"timestamp": "2026-11-03T09:00:30Z", "event_id": 4688, "host": "WS-014", "user": "r.sharma", "process": "C:\\Windows\\explorer.exe", "parent_process": "C:\\Windows\\System32\\userinit.exe", "command_line": "explorer.exe"}
+{"timestamp": "2026-11-03T09:02:00Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:02:15Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:02:30Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:02:45Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:03:00Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:03:15Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:03:30Z", "event_id": 4625, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:06:40Z", "event_id": 4625, "host": "DC-01", "user": "a.thapa", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:07:00Z", "event_id": 4625, "host": "DC-01", "user": "s.karki", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:07:20Z", "event_id": 4625, "host": "DC-01", "user": "p.rai", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:07:40Z", "event_id": 4625, "host": "DC-01", "user": "m.gurung", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:08:00Z", "event_id": 4625, "host": "DC-01", "user": "k.shrestha", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:08:20Z", "event_id": 4625, "host": "DC-01", "user": "n.tamang", "src_ip": "45.155.205.33", "logon_type": 3}
+{"timestamp": "2026-11-03T09:11:40Z", "event_id": 4624, "host": "DC-01", "user": "administrator", "src_ip": "185.220.101.7", "logon_type": 3}
+{"timestamp": "2026-11-03T09:15:00Z", "event_id": 4688, "host": "WS-014", "user": "r.sharma", "process": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE", "parent_process": "C:\\Windows\\explorer.exe", "command_line": "WINWORD.EXE /n invoice_nov.docm"}
+{"timestamp": "2026-11-03T09:15:20Z", "event_id": 4688, "host": "WS-014", "user": "r.sharma", "process": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "parent_process": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE", "command_line": "powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkA"}
+{"timestamp": "2026-11-03T09:16:00Z", "event_id": 4688, "host": "SRV-APP02", "user": "svc_backup", "process": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "parent_process": "C:\\Windows\\System32\\svchost.exe", "command_line": "powershell.exe -File C:\\scripts\\backup.ps1"}
+{"timestamp": "2026-11-03T09:25:00Z", "event_id": 4732, "host": "DC-01", "user": "administrator", "target_user": "tmp_support", "group": "Administrators"}
+{"timestamp": "2026-11-03T09:30:00Z", "event_id": 1102, "host": "DC-01", "user": "administrator"}
+{"timestamp": "2026-11-03T09:31:40Z", "event_id": 4625, "host": "WS-020", "user": "b.joshi", "src_ip": "10.0.4.30", "logon_type": 2}
